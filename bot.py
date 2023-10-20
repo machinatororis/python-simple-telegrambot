@@ -6,10 +6,10 @@ token = '6520770195:AAEXiuEoeRcrQz8qSTm-sTmKn2ehZ8XR4U4' # токен бота
 alex = telebot.TeleBot(token) # створення об'екту класу TeleBot
 
 keyboard_menu = types.ReplyKeyboardMarkup(resize_keyboard=True) # кажемо, що keyboard_menu це об'єкт клавіатури'
-tovar = types.KeyboardButton("Товари 🛍")
+product = types.KeyboardButton("Товари 🛍")
 cart = types.KeyboardButton("Кошик 🗑")
 contacts = types.KeyboardButton("Контакти 📞")
-keyboard_menu.add(tovar, cart, contacts)
+keyboard_menu.add(product, cart, contacts)
 
 @alex.message_handler(commands=['start'])
 def start(message):
