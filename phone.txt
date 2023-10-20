@@ -1,0 +1,10 @@
+Apple iPhone 15;128gb;42 499
+Apple iPhone 15 Plus;128gb;47 499
+Apple iPhone 14 Pro Max;256gb;52 499
+Samsung Galaxy A24;128gb;8 999
+Samsung Galaxy M34;128gb;11 999
+Samsung Galaxy A54;256gb;17 999
+Xiaomi Redmi Note 12 Pro;256gb;10 999
+Xiaomi Redmi Note 12;128gb;6 999
+OPPO Reno 8T;128gb;11 999
+Poco F5;256gb;15 999
