@@ -1,7 +1,7 @@
 import telebot # імпортували набір інструментів
 from telebot import types # інструменти для кнопок
 
-token = '6520770195:AAEXiuEoeRcrQz8qSTm-sTmKn2ehZ8XR4U4' # токен бота
+token = token # токен бота
 
 alex = telebot.TeleBot(token) # створення об'екту класу TeleBot
 
